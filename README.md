@@ -1,2 +1,2 @@
 # simpleChatServer
-this is a simple multiple client-server chatting program
+this is a simple JAVA based client-server chatting program with multiple client support
